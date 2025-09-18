@@ -1,0 +1,31 @@
+
+a {
+  display: inline-block;
+  margin:3px 5px;
+  padding: 5px 5px;
+  border-radius: 3px;
+ text-decoration: none;
+}
+a.dark{
+background-color: #333;
+color:#eee;
+}
+a.light{
+ background-color: #eee;
+ color:#333;
+}
+.btn-dark {
+  background-color: #444;
+  color: white;
+  border: none;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+.btn-light {
+  background-color: #ddd;
+  color: black;
+  border: none;
+  padding: 8px;
+  border-radius: 4px;
+}
